@@ -1,9 +1,12 @@
-# tarea de cisco
-La arquitectura de Cisco separa la red empresarial en áreas que se conocen como módulos. Una red de campus es un edificio que consta de muchas lan.
+#tarea de cisco
+
+La arquitectura proporciona a la empresa una alta disponibilidad a través de multicapa resistente. 
+El submódulo de centro de datos contiene servidores de correo electrónico y corporativos internos, de archivo, de impresión, de correo electrónico y nombres de dominios.
+
+
+Cisco separa la red empresarial en áreas que se conocen como módulos. Una red de campus es un edificio que consta de muchas lan.
 El módulo empresarial describe los métodos recomendados para crear una red.
 
-Proporciona a la empresa una alta disponibilidad a través de multicapa resistente. 
-El submódulo de centro de datos contiene servidores de correo electrónico y corporativos internos, de archivo, de impresión, de correo electrónico y nombres de dominios.
 
 Cisco en infraestructura de datacenters tiene:
 
