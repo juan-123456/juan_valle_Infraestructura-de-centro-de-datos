@@ -1,23 +1,2 @@
 #tarea de cisco
-
-La arquitectura proporciona a la empresa una alta disponibilidad a través de multicapa resistente. 
-El submódulo de centro de datos contiene servidores de correo electrónico y corporativos internos, de archivo, de impresión, de correo electrónico y nombres de dominios.
-
-
-Cisco separa la red empresarial en áreas que se conocen como módulos. Una red de campus es un edificio que consta de muchas lan.
-El módulo empresarial describe los métodos recomendados para crear una red.
-
-
-Cisco en infraestructura de datacenters tiene:
-
-
-Proveedor de servicios externo
-Borde de la empresa
-Empresarial Espacio 
-
-El módulo empresarial consta de los siguientes submódulos:
-
-Centro de datos
-Distribución del edificio
-Núcleo del campus
-Acceso al edificio
+Cisco contiene Network  virtual, container y cloud, seguridad conformado por ucs, blades, hx, almacenamiento, elementos básicos de cisco que proveen una correcta administración, análisis en tiempo real, nube y contenedores, una estructura asegura la red de dispositivos conectados.
